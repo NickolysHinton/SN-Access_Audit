@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description>test</description>
+        <flush_cache>false</flush_cache>
+        <name>test</name>
+        <record_for_rollback>false</record_for_rollback>
+        <run_once>true</run_once>
+        <script><![CDATA[//test]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>thriveadmin-nh</sys_created_by>
+        <sys_created_on>2021-04-27 20:36:14</sys_created_on>
+        <sys_id>720b865ddbb7e090d8866e25ca961944</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Access Audit">10ce9e7207922010aed2f7fc7c1ed036</sys_scope>
+        <sys_update_name>sys_script_fix_720b865ddbb7e090d8866e25ca961944</sys_update_name>
+        <sys_updated_by>thriveadmin-nh</sys_updated_by>
+        <sys_updated_on>2021-04-27 20:36:26</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Access Audit">10ce9e7207922010aed2f7fc7c1ed036</claim_owner_scope>
+        <claim_timestamp>179150c1fcb0000001</claim_timestamp>
+        <metadata_update_name>sys_script_fix_720b865ddbb7e090d8866e25ca961944</metadata_update_name>
+        <previous_claim_app_version>1.0.3</previous_claim_app_version>
+        <previous_claim_name>Access Audit</previous_claim_name>
+        <previous_claim_scope>10ce9e7207922010aed2f7fc7c1ed036</previous_claim_scope>
+        <sys_created_by>thriveadmin-nh</sys_created_by>
+        <sys_created_on>2021-04-27 20:36:26</sys_created_on>
+        <sys_id>631b8a1ddbb7e090d8866e25ca96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>thriveadmin-nh</sys_updated_by>
+        <sys_updated_on>2021-04-27 20:36:26</sys_updated_on>
+    </sys_claim>
+</record_update>
