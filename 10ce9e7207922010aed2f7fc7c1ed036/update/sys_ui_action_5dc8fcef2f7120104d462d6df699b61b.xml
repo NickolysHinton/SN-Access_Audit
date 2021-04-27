@@ -15,7 +15,7 @@
         <form_link>true</form_link>
         <form_menu_button_v2>false</form_menu_button_v2>
         <form_style/>
-        <hint/>
+        <hint>This will generate a CSV detailing the current Users's CRUD access to all Tables in the Instance</hint>
         <isolate_script>false</isolate_script>
         <list_action>false</list_action>
         <list_banner_button>false</list_banner_button>
@@ -189,7 +189,7 @@ function fnCheckACLs(strTableName, objCRUDsysIdACLs) {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5dc8fcef2f7120104d462d6df699b61b</sys_id>
-        <sys_mod_count>25</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_name>Audit Table Access - Generate CSV</sys_name>
         <sys_overrides/>
         <sys_package display_value="Global" source="global">global</sys_package>
@@ -197,7 +197,7 @@ function fnCheckACLs(strTableName, objCRUDsysIdACLs) {
         <sys_scope display_value="Access Audit">10ce9e7207922010aed2f7fc7c1ed036</sys_scope>
         <sys_update_name>sys_ui_action_5dc8fcef2f7120104d462d6df699b61b</sys_update_name>
         <sys_updated_by>thriveadmin-nh</sys_updated_by>
-        <sys_updated_on>2021-04-27 19:53:54</sys_updated_on>
+        <sys_updated_on>2021-04-27 20:00:52</sys_updated_on>
         <table>sys_user</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
